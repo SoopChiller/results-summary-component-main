@@ -1,0 +1,134 @@
+body {
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Hanken Grotesk', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+main {
+    display: flex;
+    position: relative;
+    align-items: center;
+    margin-left: 160px;
+}
+
+p {
+    text-align: center;
+    font-size: 1.8vh;
+    margin-top: 0;
+    margin-bottom: 22px;
+    line-height: 18.5px;
+    color: hsl(0, 0%, 100%);
+    opacity: 0.7;
+}
+
+.left-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(hsl(252, 100%, 67%) ,hsl(241, 81%, 54%));
+    height: 398px;
+    width: 250px;
+    gap: 12px;
+    padding-left: 28px;
+    padding-right: 28px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 26px;
+    position: absolute;
+    right: 305px;
+    
+}
+
+.circle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-image: linear-gradient(hsla(256, 85%, 46%, 1), hsla(241, 72%, 46%, 0));
+    width: 168px;
+    height: 168px;
+    border-radius: 84px;
+    
+}
+
+#result {
+    font-size: 19px;
+    margin-top: 8px;
+    margin-bottom: 18px;
+    opacity: 0.8;
+}
+
+#seven-six, 
+#great,
+#result
+ {
+    font-weight: 700;
+    color: hsl(0, 0%, 100%);
+} 
+
+#seven-six {
+    font-size: 3.8em;
+    margin-top: px;
+}
+
+#great {
+   font-size: 27px;
+   margin-top: 11px;
+   margin-bottom: 2px;
+}
+
+#one-hundred {
+    color: hsl(0, 0%, 100%);
+    opacity: 0.4;
+}
+
+.right-container {
+    background-color: aqua;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    width: 450px;
+    height: 398px;
+    padding-left: 28px;
+    padding-right: 28px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 26px;
+    
+}
+
+.right-inner-container {
+    background-color: white;
+    height: 350px;
+    margin-bottom: 15px;
+}
+
+.result-container {
+    display: flex;
+    background-color: grey;
+    justify-content: space-between;
+    
+    padding: 12px 10px;
+    width: 225px;
+}
+
+.container-of-all-results {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+#summary {
+    font-size: 19px;
+    font-weight: 700;
+    margin-bottom: 18px;
+}
+
+.label-top
