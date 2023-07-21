@@ -13,19 +13,29 @@
   - [Continued development](#continued-development)
 ## Overview
 
-### Screenshot
+# Screenshot
 
+### Mobile 
 ![](./mobile-design.png)
+### Desktop
 ![](./desktop-design.png)
+### Desktop-active-state
 ![](./active-state.png)
 
 
 
 ### Links
 
-- Live Site URL: 
+- Live Site URL: https://soopchiller.github.io/results-summary-component-main/
 
 ## My process
+I really got lost in the CSS sauce on this project!
+
+This is by far the most challenging clone I've done thus far.
+
+I wanted to see where I was at with my understanding of HTML & CSS
+
+Long ways to go!
 
 ### Built with
 
@@ -36,10 +46,19 @@
 
 ### What I learned
 
+I learned about overlapping my divs
+
+Creating nice box-shadows
+
+Linear-gradients
 
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+In my continued development I'll continue to focus on my organization and semantic HTML
+
+Responsive designs
+
+Thanks for reading. happy coding!
 
 
