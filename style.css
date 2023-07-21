@@ -19,7 +19,7 @@ main {
 
 p {
     text-align: center;
-    font-size: 17px;
+    font-size: 18px;
     margin-top: 0;
     margin-bottom: 23px;
     line-height: 22px;
@@ -81,7 +81,7 @@ button:hover {
     margin-top: 8px;
     margin-bottom: 18px;
     opacity: 0.7;
-    font-weight: 300;
+    font-weight: 400;
 }
 
 #seven-six, 
@@ -94,7 +94,7 @@ button:hover {
 
 #seven-six {
     font-weight: 700;
-    font-size: 4.3em;
+    font-size: 4.2em;
     margin-top: 40px;
 }
 
