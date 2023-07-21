@@ -285,6 +285,14 @@ button:hover {
         font-size: 19px;
     }
 
+    button:hover {
+        background-image: none;
+    }
+
+   button:active {
+    background-image: linear-gradient(hsl(252, 100%, 67%) ,hsl(241, 81%, 54%));
+   }
+
     #summary {
         margin: 0;
         font-size: 21px;
