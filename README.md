@@ -21,7 +21,7 @@
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://soopchiller.github.io/results-summary-component-main/)
+- Live Site URL: 
 
 ## My process
 

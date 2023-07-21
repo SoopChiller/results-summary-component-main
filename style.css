@@ -25,7 +25,7 @@ p {
     line-height: 22px;
     color: hsl(0, 0%, 100%);
     opacity: 0.7;
-    font-weight: 500;
+    font-weight: 300;
 }
 
 button {
@@ -81,7 +81,7 @@ button:hover {
     margin-top: 8px;
     margin-bottom: 18px;
     opacity: 0.7;
-    font-weight: 600;
+    font-weight: 300;
 }
 
 #seven-six, 
@@ -108,7 +108,8 @@ button:hover {
 #one-hundred {
     color: hsl(0, 0%, 100%);
     opacity: 0.4;
-    font-size: 1.1em;
+    font-size: 1.2em;
+    
 }
 
 .right-container {
