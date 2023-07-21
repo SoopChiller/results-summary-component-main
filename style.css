@@ -31,7 +31,7 @@ p {
 button {
     margin-top: 40px;
     padding: 18px;
-    font-size: 19px;
+    font-size: 18px;
     font-weight: 500;
     color: hsl(0, 0%, 100%);
     border: none;
@@ -219,6 +219,7 @@ button:hover {
         justify-content: center;
         align-items: center;
         background-color: white;
+        max-height: 80vh;
     }
 
     main {
@@ -231,8 +232,8 @@ button:hover {
         position: unset;
         width: 300px;
         border-radius: 0;
-        border-bottom-left-radius: 36px;
-        border-bottom-right-radius: 36px;
+        border-bottom-left-radius: 50px;
+        border-bottom-right-radius: 50px;
         height: 300px;
         justify-content: center;
         padding-bottom: 65px;
