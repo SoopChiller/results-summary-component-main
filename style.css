@@ -219,13 +219,17 @@ button:hover {
         justify-content: center;
         align-items: center;
         background-color: white;
-        max-height: 80vh;
+
     }
 
     main {
         position: unset;
         flex-direction: column;
         margin: 0;
+    }
+
+    p {
+        font-weight: 500;
     }
 
     .left-container {
@@ -257,6 +261,12 @@ button:hover {
 
     #result {
         font-size: 21px;
+        font-weight: 600;
+    }
+
+    #one-hundred {
+        font-size: 18px;
+        font-weight: 600;
     }
 
     .result-container {
