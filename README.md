@@ -15,7 +15,9 @@
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./mobile-design.png)
+![](./desktop-design.png)
+![](./active-state.png)
 
 
 
